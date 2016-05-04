@@ -2,7 +2,7 @@
 
 Since: 2016/05/04
 
-Arduinoのシリアル出力を、Node.jsで受け取ってそのままエコーする
+Arduinoのシリアル出力を、Node.jsで受け取ってそのままエコーする  
 2016/05/04に動作確認しました (Arduino Uno -> Macbook Pro Retina 13)
 
 node: v4.4.3
